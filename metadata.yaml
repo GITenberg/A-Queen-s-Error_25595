@@ -1,0 +1,26 @@
+_repo: A-Queen-s-Error_25595
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Curties, Henry
+    birthdate: 1860
+    gutenberg_agent_id: '31443'
+    url: http://www.gutenberg.org/2009/agents/31443
+description: ''
+gutenberg_issued: '2008-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25595'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Somerset (England) -- Fiction'
+- !lcsh 'Mystery and detective stories'
+title: A Queen's Error
+url: http://www.gutenberg.org/ebooks/25595
