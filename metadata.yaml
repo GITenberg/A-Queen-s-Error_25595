@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '31443'
     url: http://www.gutenberg.org/2009/agents/31443
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25595#A-Queen-s-Error
 gutenberg_issued: '2008-05-25'
 gutenberg_type: Text
 identifiers:
